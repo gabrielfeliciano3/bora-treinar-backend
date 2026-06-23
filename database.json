@@ -1,0 +1,21 @@
+[
+
+  {
+    "id": "1782236341135",
+    "usuario": "Gabriel Costa",
+    "academiaNome": "Academia Recife - Polo Hipódromo",
+    "latitude": -7.900442903959121,
+    "longitude": -34.82549740960415,
+    "bairroReal": "Recife",
+    "dataHora": "23/06/2026, 14:39:01"
+  },
+  {
+    "id": "1782236373895",
+    "usuario": "Gabriel Costa",
+    "academiaNome": "Academia Recife - Polo Guabiraba",
+    "latitude": -7.9004428035949035,
+    "longitude": -34.825497465227414,
+    "bairroReal": "Recife",
+    "dataHora": "23/06/2026, 14:39:33"
+  }
+]
