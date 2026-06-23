@@ -15,7 +15,7 @@ Este servidor é responsável pela persistência dos dados de check-in dos usuá
 ## Como rodar
 1. Certifique-se de ter o Node.js instalado.
 2. No terminal, dentro da pasta do backend, instale as dependências:
-  npm install
+  npm install /
   npm run dev
    
 
